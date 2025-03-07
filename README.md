@@ -10,6 +10,6 @@ Sou um entusiasta de programação com foco em back-end, cybersegurança, ciênc
 
 🌱 Estou aprendendo JavaScript e Pyhton.
 
-📚 Estudo no Curso.dev e na Alura
+📚 Estudante de ADS pela FIAP, além de fazer cursos na Alura, Curso.dev, Oracle e Google Cloud
 
 Estou começando agora, nunca fui muito fã, mas a um tempo fui atraído para a programação e não quero mais parar haha!
