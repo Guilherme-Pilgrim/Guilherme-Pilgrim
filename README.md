@@ -36,8 +36,7 @@ Sou um entusiasta de programação com foco em back-end, cibersegurança e ciên
 ---  
 
 ## 🔥 Projetos em Destaque
-
-- [Sophinance](https://github.com/Guilherme-Pilgrim/sophinance) - Aplicação de finanças pessoais com IA integrada.  
+ 
 - [TabNews Clone](https://github.com/Guilherme-Pilgrim/tabnews-clone) - Clone do TabNews desenvolvido para aprendizado e prática de desenvolvimento web.  
 
 ---  
