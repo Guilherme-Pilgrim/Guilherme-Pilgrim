@@ -1,14 +1,14 @@
 ## 👋 Olá, mundo! Me chamo Guilherme!
 
-Sou um entusiasta de programação com foco em back-end, cibersegurança e ciência de dados. Estou iniciando minha jornada no GitHub para compartilhar meus projetos, colaborar com outros desenvolvedores e aprender cada vez mais.
+Sou um estudante de Desenvolvimento de Software com foco em desenvolvimento FullStack, cibersegurança e ciência de dados. Minha jornada no GitHub é para compartilhar meus projetos, colaborar com outros desenvolvedores e aprender cada vez mais.
 
 ---  
 
 ## 🏆 Sobre mim
 
-🎂 Tenho 22 anos  
-⛪ Cristão Reformado  
-🌱 Estou aprendendo Java, JavaScript, C# e Python  
+🎂 Tenho 23 anos  
+⛪ Cristão Batista Reformado  
+🌱 Estou aprendendo Java, JavaScript, C#, Python, HTML5, CSS3 e RDBMS.  
 📚 Estudante de ADS pela FIAP, além de fazer cursos na Alura, Curso.dev, Oracle e Google Cloud  
 💡 Descobri minha paixão pela programação e não quero mais parar! 🚀  
 
@@ -39,6 +39,7 @@ Sou um entusiasta de programação com foco em back-end, cibersegurança e ciên
  
 - [TabNews Clone](https://github.com/Guilherme-Pilgrim/tabnews-clone) - Clone do TabNews desenvolvido para aprendizado e prática de desenvolvimento web.  
 
+- [Calculadora em Python](https://github.com/Guilherme-Pilgrim/Calculadora-em-Python) - Uma calculadora de terminal feita puramente em linguagem python.
 ---  
 
 ## 📫 Contato
