@@ -10,8 +10,8 @@ Sou um estudante de Desenvolvimento de Software com foco em desenvolvimento Full
 
 🎂 Tenho 23 anos  
 ⛪ Cristão Batista Reformado  
-🌱 Estou aprendendo Java, JavaScript, C#, Python, HTML5, CSS3, Kotlin e SQL.  
-📚 Estudante de ADS pela FIAP, além de fazer cursos na Alura, Curso.dev, Oracle e Google Cloud  
+🌱 Estou aprendendo Java, JavaScript, C#, Python, HTML5, CSS3, Kotlin e SQL
+📚 Estudante de ADS pela FIAP 
 💡 Descobri minha paixão pela programação e não quero mais parar! 🚀  
 
 ---  
