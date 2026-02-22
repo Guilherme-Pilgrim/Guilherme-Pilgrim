@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guilherme%20Pilgrim&fontSize=70)
+
 ## 👋 Olá, mundo! Me chamo Guilherme!
 
 Sou um estudante de Desenvolvimento de Software com foco em desenvolvimento FullStack, cibersegurança e ciência de dados. Minha jornada no GitHub é para compartilhar meus projetos, colaborar com outros desenvolvedores e aprender cada vez mais.
@@ -30,8 +32,7 @@ Sou um estudante de Desenvolvimento de Software com foco em desenvolvimento Full
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilherme-Pilgrim&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Pilgrim&layout=compact&theme=radical)
+![Stats de Guilherme](https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme-Pilgrim&show_icons=true&theme=dracula)
 
 ---  
 
