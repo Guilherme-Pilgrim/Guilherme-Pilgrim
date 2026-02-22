@@ -36,13 +36,6 @@ Sou um estudante de Desenvolvimento de Software com foco em desenvolvimento Full
 
 ---  
 
-## 🔥 Projetos em Destaque
- 
-- [TabNews Clone](https://github.com/Guilherme-Pilgrim/tabnews-clone) - Clone do TabNews desenvolvido para aprendizado e prática de desenvolvimento web.  
-
-- [Calculadora em Python](https://github.com/Guilherme-Pilgrim/Calculadora-em-Python) - Uma calculadora de terminal feita puramente em linguagem python.
----  
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermexbezerra/)  
